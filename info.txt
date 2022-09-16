@@ -1,0 +1,5 @@
+resize all the img. Size is 528x960
+using 'labelme' tools annotate all the img
+
+python version 3.7 is perfect for this time
+
